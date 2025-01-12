@@ -1,7 +1,5 @@
-name: Build
-on:
-  push:
-  pull_request:
+name: Build #1
+on: push
 
 jobs:
   test:
